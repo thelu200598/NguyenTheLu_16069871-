@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">NTL_Cau1</string>
+    <string name="message_dialog_exist_title">Do you want to exit</string>
+    <string name="message_dialog_ok">Yes</string>
+    <string name="message_dialog_exist">No to out</string>
+    <string name="message_dialog_cancel">No</string>
 </resources>
